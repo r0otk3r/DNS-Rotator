@@ -2,7 +2,7 @@
 
 This script automates the process of rotating through a predefined list of public DNS servers on your Debian/Ubuntu-based system. It continuously updates your `/etc/resolv.conf` file with new DNS configurations every two minutes, cycling through various DNS providers.
 
-## âš ï¸ WARNING: Use with Caution âš ï¸
+## ⚠️ WARNING: Use with Caution ⚠️
 
 This script **continuously modifies your system's DNS configuration**.
 *   **Understand the implications:** Changing DNS frequently can impact network performance, caching, and potentially lead to temporary connectivity issues if a chosen DNS server is slow or unresponsive.
