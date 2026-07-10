@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="dns" src="https://github.com/user-attachments/assets/bdfe6046-576f-4241-b078-318791671b63" />
+
+
 # Dynamic DNS Rotator
 
 This script automates the process of rotating through a predefined list of public DNS servers on your Debian/Ubuntu-based system. It continuously updates your `/etc/resolv.conf` file with new DNS configurations every two minutes, cycling through various DNS providers.
